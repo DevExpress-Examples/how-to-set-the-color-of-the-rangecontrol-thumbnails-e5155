@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/RangeControlColors/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/RangeControlColors/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/RangeControlColors/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/RangeControlColors/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/RangeControlColors/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/RangeControlColors/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to set the color of the RangeControl thumbnails
